@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("mahadii").MahadiNX()
+    __import__("Flighti").FlightNX()
 except Exception as e:
     exit(str(e))
